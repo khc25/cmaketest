@@ -1,0 +1,6 @@
+C:/Users/User/source/repos/CMakeProject1/out/build/x64-debug/CMakeFiles/CMakeProject1.dir
+C:/Users/User/source/repos/CMakeProject1/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/source/repos/CMakeProject1/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/source/repos/CMakeProject1/out/build/x64-debug/math/CMakeFiles/MathFunctions.dir
+C:/Users/User/source/repos/CMakeProject1/out/build/x64-debug/math/CMakeFiles/edit_cache.dir
+C:/Users/User/source/repos/CMakeProject1/out/build/x64-debug/math/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+# ninja log v5
+12	144	7380874109777119	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	9c85361a976aa24a
+145	530	7380874112922364	CMakeProject1.exe	5a99a90aea44e420
+8	595	7380873963375294	math/CMakeFiles/MathFunctions.dir/MathFunctions.cc.obj	b38447cd5b16eedb
+16	137	7380874109667137	math/MathFunctions.lib	1d5f4ee8c5bdbe21
